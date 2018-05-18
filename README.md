@@ -3,6 +3,15 @@ blockfind
 
 대용량 로그파일에서 특정 문자열이 들어있는 블록을 찾아주는 프로그램.
 
+Install :
+-------------
+
+* install golang latest. (https://golang.org/dl/)
+* download src (git clone https://github.com/jaksal/dbdiff.git)
+* goto src folder 
+* go get && go build
+
+
 Usage 
 -----
 ```

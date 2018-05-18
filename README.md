@@ -7,7 +7,7 @@ Install :
 -------------
 
 * install golang latest. (https://golang.org/dl/)
-* download src (git clone https://github.com/jaksal/dbdiff.git)
+* download src (git clone https://github.com/jaksal/blockfind.git)
 * goto src folder 
 * go get && go build
 
